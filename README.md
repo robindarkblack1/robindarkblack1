@@ -70,9 +70,8 @@
 
 ## 🏆 Contribution Snake
 
-<p align="center">
-  <img src="(https://github.com/robindarkblack1/robindarkblack1/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+![Contribution Snake](https://raw.githubusercontent.com/robindarkblack1/robindarkblack1/output/github-contribution-grid-snake.svg)
+
 
 ---
 
