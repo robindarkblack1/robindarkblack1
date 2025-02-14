@@ -81,8 +81,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pardeep.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pardeep.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-robindarkblack1-181717?style=for-the-badge&logo=github)](https://github.com/robindarkblack1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pardeep-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pardeep)
-[![Instagram](https://img.shields.io/badge/Instagram-@pardeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pardeep)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pardeep-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/pardeep](https://www.linkedin.com/in/prdeep-verma-4a1364257/))
+[![Instagram](https://img.shields.io/badge/Instagram-@Pardeep-verma-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bannned_devil)
 
 ---
 
