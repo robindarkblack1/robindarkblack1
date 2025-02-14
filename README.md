@@ -1,8 +1,13 @@
+
 <h1 align="center">Hi, I'm Pardeep! 🚀</h1>
 
 <p align="center">
   <a href="https://pardeep.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-pardeep.tech-blue?style=flat-square&logo=google-chrome" alt="Portfolio"></a>
   <a href="https://github.com/Pardeep"><img src="https://img.shields.io/github/followers/Pardeep?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7D731&center=true&vCenter=true&width=500&lines=Passionate+Developer+%7C+AI+Enthusiast;Building+Innovative+Tools;Automating+Systems;Exploring+Flask%2C+Python%2C+AI;Let's+Code+Something+Awesome!" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,6 +55,16 @@
 - Web crawlers fetch and analyze job postings
 
 [More Projects →](https://github.com/Pardeep)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pardeep&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pardeep&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
